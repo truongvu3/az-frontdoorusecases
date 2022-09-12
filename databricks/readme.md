@@ -44,6 +44,10 @@ In this example we are going to use the request path /1 to get forwarded to our 
 
 14. Use the newly created Front Door endpoint hostname as hostname for the BI client connection with Databricks and /1 as http path.
 
+## For more infortion about Front Door:
 
+https://docs.microsoft.com/en-us/azure/frontdoor/create-front-door-portal
+
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-standard-premium
 
 
