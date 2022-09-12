@@ -9,8 +9,9 @@ Azure Front Door can be used to create a fixed connection string for the clients
 
 ## Creating Front Door Profile
 
-1. Select Front Door and CDN profiles in Azure Marketplace
+### Select Front Door and CDN profiles in Azure Marketplace
 
 2. Choose Standard or Premium Tier according to requirements (https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/tier-comparison)
 
-
+3. Click "Add and endpoint in Endpoint tab.
+a. 
