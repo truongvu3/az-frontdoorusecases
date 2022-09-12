@@ -13,5 +13,6 @@ Azure Front Door can be used to create a fixed connection string for the clients
 
 2. Choose Standard or Premium Tier according to requirements (https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/tier-comparison)
 
-3. Click "Add and endpoint in Endpoint tab.
+3. Click "Add and endpoint in Endpoint tab
+
 a. click on 
