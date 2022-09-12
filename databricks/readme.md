@@ -10,9 +10,8 @@ Azure Front Door can be used to create a fixed connection string for the clients
 ## Creating Front Door Profile
 
 1. Select Front Door and CDN profiles in Azure Marketplace
-
 2. Choose Standard or Premium Tier according to requirements (https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/tier-comparison)
+3. Click "Add and endpoint" in Endpoint tab and specify a name for the endpoint which is going to be the fixed hostname the clients are connecting to
+![image](https://user-images.githubusercontent.com/22439398/189684490-4d4072a6-7be5-4188-a160-ac0bf43425f4.png)
 
-3. Click "Add and endpoint in Endpoint tab
-4. awd#+awd
-5. awd
+
