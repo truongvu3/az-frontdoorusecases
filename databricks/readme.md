@@ -7,7 +7,7 @@ In order for BI clients, such as PowerBI or Tableau, to connect with Databricks 
 Azure Front Door can be used to create a fixed connection string for the clients to connect to Databricks. 
 
 
-## Creating Front Door Profile
+## Creating Front Door Profile and Rule Set for Databricks Use Case
 
 1. Select Front Door and CDN profiles in Azure Marketplace
 
