@@ -1,5 +1,3 @@
-# Databricks
+# Databricks & Front Door
 
-Hello
-
-ich bin der 
+## Creating a Front Door Profile to Provide Fixed Connections Strings for BI Clients
