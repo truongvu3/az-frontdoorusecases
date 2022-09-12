@@ -20,7 +20,7 @@ Azure Front Door can be used to create a fixed connection string for the clients
 
 5. Click on "Add a new origin group" under the Origin group field and specify a name for the origin group (where the Front Door fixed hostname is pointing to, in this case the Databricks hostname)
 
-6. Click on "Add an origin" to specify name of origin, select Custom for Origin type, type in Databricks hostname in Host name and leave default entries for the remaining fiels
+6. Click on "Add an origin" to specify name of origin, select Custom for Origin type, type in the Databricks hostname in Host name and leave default entries for the remaining fiels
 
 7. Select the newly created origin group in the Origin group field and click on Add to add route
 
